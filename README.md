@@ -13,7 +13,7 @@ Loyiha quyidagi texnologiyalar yordamida ishlab chiqilgan:
 - **CSS3**
 - **JavaScript (Vanilla JS)**
 
-## 📁 Foyllar tuzilishi
+## 📁 Fayllar tuzilishi
 
 ```
 word-count-app/
